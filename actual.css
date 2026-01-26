@@ -18,6 +18,11 @@
 --color-pageTextLink: #00b3b3;
 --color-pageTextLinkLight: #00cccc;
 
+--color-numberPositive: #147d64;
+--color-numberNegative: #e12d39;
+--color-numberNeutral: #e8ecf0;
+
+
 --color-cardBackground: #fff;
 --color-cardBorder: hsl(0, 0%,  37%);
 --color-cardShadow: hsl(0, 0%,  31%);
@@ -222,6 +227,16 @@
 --color-budgetHeaderOtherMonth: hsl(0, 0%, 95%);
 --color-budgetHeaderCurrentMonth: hsl(0, 0%, 98%);
 --color-budgetNumberZero: hsl(0, 0%,  75%);  
+
+--color-budgetNumberNegative: #e12d39;
+--color-budgetNumberNeutral: #272630;
+--color-budgetNumberPositive: #272630;
+--color-templateNumberFunded: #147d64;
+--color-templateNumberUnderFunded: #b88115;
+--color-toBudgetPositive: #147d64;
+--color-toBudgetZero: #147d64;
+--color-toBudgetNegative: #e12d39;
+
 
 --color-floatingActionBarBackground: hsl(0, 0%, 60%);
 --color-floatingActionBarBorder: hsl(0, 0%, 60%);
