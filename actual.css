@@ -221,6 +221,7 @@
 --color-budgetCurrentMonth: hsl(0, 0%, 94%);
 --color-budgetHeaderOtherMonth: hsl(0, 0%, 95%);
 --color-budgetHeaderCurrentMonth: hsl(0, 0%, 98%);
+--color-budgetNumberZero: hsl(0, 0%,  65%);  
 
 --color-floatingActionBarBackground: hsl(0, 0%, 60%);
 --color-floatingActionBarBorder: hsl(0, 0%, 60%);
