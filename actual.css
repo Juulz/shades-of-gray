@@ -211,8 +211,9 @@
 --color-reportsGray: #747c8b;
 --color-reportsLabel: #102a43;
 --color-reportsInnerLabel: #243b53;
+--color-reportsNumberPositive: #00cccc;
+--color-reportsNumberNegative: #df5a49;
   
-
 --color-noteTagBackground: #e4d4ff;
 --color-noteTagBackgroundHover: #dac4ff;
 --color-noteTagDefault: #e4d4ff;
