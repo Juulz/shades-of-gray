@@ -4,7 +4,7 @@
 
 --color-pageBackground: hsl(0, 0%,  90%);
 --color-pageText: hsl(0, 0%,  20%);
---color-pageTextSubdued: hsl(0, 0%,  65%);
+--color-pageTextSubdued: hsl(0, 0%,  55%);
 
 --color-pageBackgroundModalActive: hsl(0, 0%,  80%);
 --color-pageBackgroundTopLeft: hsl(0, 0%,  94%);
@@ -30,11 +30,11 @@
 --color-tableBackground: hsl(0, 0%,  94%);
 --color-tableBorder: hsl(0, 0%,  99%);
 --color-tableText: hsl(0, 0%,  15%);
---color-tableTextSubdued: hsl(0, 0%,  75%);
+--color-tableTextSubdued: hsl(0, 0%,  55%);
 --color-tableBorderHover: #99ffff; /* hsl(0, 0%,  60%) */
 --color-tableRowBackgroundHover: hsl(0, 0%,  99%);
 
---color-tableTextLight: hsl(0, 0%, 60%);
+--color-tableTextLight: hsl(0, 0%, 45%);
 --color-tableTextSelected: hsl(0, 0%, 31%);
 --color-tableTextHover: hsl(0, 0%, 16%);
 --color-tableTextInactive: hsl(0, 0%, 49%);
