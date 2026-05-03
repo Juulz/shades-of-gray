@@ -227,7 +227,7 @@
 --color-budgetCurrentMonth: hsl(0, 0%, 94%);
 --color-budgetHeaderOtherMonth: hsl(0, 0%, 95%);
 --color-budgetHeaderCurrentMonth: hsl(0, 0%, 98%);
---color-budgetNumberZero: hsl(0, 0%,  75%);  
+--color-budgetNumberZero: hsl(0, 0%,  60%);  
 
 --color-budgetNumberNegative: #e12d39;
 --color-budgetNumberNeutral: #272630;
