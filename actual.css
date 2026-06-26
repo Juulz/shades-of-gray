@@ -48,7 +48,6 @@
 --color-tableRowHeaderText: hsl(0, 0%, 23%);
 
 --color-sidebarBackground: hsl(0, 0%, 20%);
---color-sidebarBudgetName: hsl(0, 0%, 80%);
 --color-sidebarItemAccentSelected: #99ffff;
 --color-sidebarItemBackgroundHover: hsl(0, 0%, 40%);
 --color-sidebarItemText: #fff;
@@ -57,6 +56,10 @@
 --color-sidebarItemBackgroundPending: #ffff00;
 --color-sidebarItemBackgroundPositive: #29a329;
 --color-sidebarItemBackgroundFailed: #b30000;
+
+--color-sidebarBudgetName: #d3c031;
+--color-tableTextItemAdded: #0000ff;
+--color-sidebarItemTextUpdated: #d3c031;  
 
 --color-menuAutoCompleteTextHeader: hsl(0, 0%, 70%);
 
